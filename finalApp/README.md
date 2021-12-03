@@ -12,12 +12,15 @@ Used :
 - Container that uses children prop showcasing my app name (going to add a logo soon) and a footer with my name and info on class.
 
 
-<img width="354" alt="Screen Shot 2021-10-28 at 7 11 50 PM" src="https://user-images.githubusercontent.com/44778751/141416199-12bbceea-18f7-4a24-9f20-7c24f1f74924.png">
-<img width="317" alt="Screen Shot 2021-11-12 at 12 48 09 AM" src="https://user-images.githubusercontent.com/44778751/141416696-8f88b90b-5266-4f19-a637-953d103ff9a6.png">
-<img width="357" alt="Screen Shot 2021-11-12 at 12 45 31 AM" src="https://user-images.githubusercontent.com/44778751/141416417-899bdf57-5488-4972-ba06-375cc98cf2c3.png">
+<img width="354" alt="Screen Shot 2021-10-28 at 7 11 50 PM" src=""><img width="338" alt="Screen Shot 2021-12-02 at 11 01 07 PM" src="https://user-images.githubusercontent.com/44778751/144543169-25fbdba5-0855-44c7-b18f-45e7a029fc82.png">
+<img width="335" alt="Screen Shot 2021-12-02 at 11 01 25 PM" src="https://user-images.githubusercontent.com/44778751/144543193-69dfd4f0-05e3-4675-9e64-a3bc51a1f304.png">
 
-<img width="257" alt="Screen Shot 2021-11-12 at 12 43 56 AM" src="https://user-images.githubusercontent.com/44778751/141416280-0970fcbf-1663-42d7-a355-427b60642f41.png">
+<img width="357" alt="Screen Shot 2021-11-12 at 12 45 31 AM" src="<img width="337" alt="Screen Shot 2021-12-02 at 11 01 56 PM" src="https://user-images.githubusercontent.com/44778751/144543226-62faf96d-f9e6-4c89-bd55-99a9b00181c9.png">
+">
 
-<img width="258" alt="Screen Shot 2021-11-12 at 12 46 15 AM" src="https://user-images.githubusercontent.com/44778751/141416487-fe1efe88-700b-4264-8780-8b6dd2657934.png">
-<img width="257" alt="Screen Shot 2021-11-12 at 12 47 55 AM" src="https://user-images.githubusercontent.com/44778751/141416655-811afe49-ba6b-455d-86da-b980399269c3.png">
+<img width="257" alt="Screen Shot 2021-11-12 at 12 43 56 AM" src="<img width="337" alt="Screen Shot 2021-12-02 at 11 02 16 PM" src="https://user-images.githubusercontent.com/44778751/144543243-ae60b4b4-7617-4a91-a688-18c9fd6ce38a.png">
+">
 
+<img width="258" alt="Screen Shot 2021-11-12 at 12 46 15 AM" src="<img width="338" alt="Screen Shot 2021-12-02 at 11 02 32 PM" src="https://user-images.githubusercontent.com/44778751/144543271-546bfac0-1f5e-4b56-bf35-15e875a10269.png">
+">
+<img width="257" alt="Screen Shot 2021-11-12 at 12 47 55 AM" src="<img width="334" alt="Screen Shot 2021-12-02 at 11 02 47 PM" src="https://user-images.githubusercontent.com/44778751/144543300-79e26b34-7891-48e0-b730-db6270b9279c.png">
