@@ -6,6 +6,9 @@ Mobile App Design Code from Class
 NAME of the  app : FIND YOUR COMMUNITY 
 - If you've ever moved to a new place where you feel alone without your community and family and friends back home, FIND YOUR COMMUNITY is the platform that will help you search events based on your location and list events where you can build relationships and find community. 
 
+MOVIE DEMO link:
+https://drive.google.com/drive/folders/1VuCwqwWqjCPAsAtMpg4ThYlGb5MZHIkd?usp=sharing 
+
 Used : 
 - secureTextEntry props to hide password as user enters 
 - Contexts for user name and password which can be accessed by other pages and components to leave review for events 
